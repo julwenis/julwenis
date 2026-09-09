@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Hasan 👋
 
-<!--
-**julwenis/julwenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Engineering student at the
+Warsaw University of Technology (WUT).
 
-Here are some ideas to get you started:
+I'm interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend development
+- Databases and SQL
+- Recommendation systems
+- Software engineering
+
+### 🚀 Currently working on
+
+🎵 A personalized music album management and recommendation system
+as my engineering thesis.
+
+The project focuses on:
+
+- PostgreSQL and relational database design
+- Content-based recommendation
+- Naive Bayes classification
+- Recommendation evaluation with Precision@K, Recall@K and F1@K
+- SQL query optimization and performance analysis
+
+### 🛠️ Technologies
+
+```text
+C++       Python       SQL
+PostgreSQL Git         GitHub
